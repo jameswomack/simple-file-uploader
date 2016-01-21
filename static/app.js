@@ -1,4 +1,5 @@
 ;(function (window, document) {
+  // http://codebits.glennjones.net/dragdrop/dropfolder.htm
 
   'use strict';
 
